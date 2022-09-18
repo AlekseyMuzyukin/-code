@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите номер дня недели");
+﻿Console.WriteLine("Введите номер дня недели: ");
 string numDay = Console.ReadLine();
 if (numDay == "1")
 {
